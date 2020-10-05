@@ -1,8 +1,8 @@
 # DSC HacktoberFest2020 :sparkles:
 
 
-![Contribution Open](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
-![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+[![Contribution Open](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dscigdtuw/DSC-HacktoberFest2020/blob/main/CONTRIBUTING.md)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/dscigdtuw/DSC-HacktoberFest2020/issues)
 
 This repository is mainly open to those who are looking to make some PR for the [Hacktoberfest](https://hacktoberfest.digitalocean.com/) event, and to get started with GitHub and the open-source world.
 
