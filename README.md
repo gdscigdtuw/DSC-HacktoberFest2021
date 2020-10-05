@@ -21,4 +21,4 @@ This repository is mainly open to those who are looking to make some PR for the 
 | Name                                                                                                                               | Country               |
 |------------------------------------------------------------------------------------------------------------------------------------|-----------------------|
 | [Sky0023](https://github.com/Sky0023/) <br> <img src="https://github.com/Sky0023.png" width="100" height="100">                | India |
-| [Shivam](https://github.com/shivamjaiswal64/) <br> <img src="https://github.com/shivamjaiswal64.png" width="100" height="100"> | India |
+| [Shivam Jaiswal](https://github.com/shivamjaiswal64/) <br> <img src="https://github.com/shivamjaiswal64.png" width="100" height="100"> | India |
