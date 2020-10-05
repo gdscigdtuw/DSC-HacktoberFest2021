@@ -3,7 +3,8 @@
 
 - Fork this repository - [How to fork a repository](https://services.github.com/on-demand/intro-to-github/create-pull-request)
 - Clone the forked repository into local space.
-- Add your info in the `addInfo.json` file in code folder
+- Add your info in the `addInfo.json` file in [code](https://github.com/dscigdtuw/DSC-HacktoberFest2020/tree/main/code) folder in the same format.
+- Create a file and add your algorithm code in it and put that file in [code](https://github.com/dscigdtuw/DSC-HacktoberFest2020/tree/main/code) folder.
 - Add and commit the changes.
 - Don't forget to add your name, image url and country in contributors table in the README.md file.
 - Generate a Pull Request.
