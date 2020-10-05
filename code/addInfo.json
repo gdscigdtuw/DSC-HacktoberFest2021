@@ -5,6 +5,11 @@
            "place": "Delhi"
         },
         {
+           "name":"Shivam",
+           "age": 21,
+           "place":"Ghaziabad"
+        },
+        {
            "name":"",
            "age": ,
            "place":""
