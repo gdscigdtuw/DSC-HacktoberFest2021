@@ -21,8 +21,7 @@ This repository is mainly open to those who are looking to make some PR for the 
 
 | Name                                                                                                                               | Country               |
 |------------------------------------------------------------------------------------------------------------------------------------|-----------------------|
-
-| [Sky0023](https://github.com/Sky0023/) <br> <img src="https://github.com/Sky0023.png" width="50" height="50">   | India      |
-| [nehasangeetajha](https://github.com/nehasangeetajha/) <br> <img src="https://github.com/nehasangeetajha.png" width="50" height="50">   | India      |
-| [Shivam Jaiswal](https://github.com/shivamjaiswal64/) <br> <img src="https://github.com/shivamjaiswal64.png" width="100" height="100"> | India |
+| [Sky0023](https://github.com/Sky0023/) <br> <img src="https://github.com/Sky0023.png" width="20" height="20">   | India      |
+| [nehasangeetajha](https://github.com/nehasangeetajha/) <br> <img src="https://github.com/nehasangeetajha.png" width="20" height="20">   | India      |
+| [Shivam Jaiswal](https://github.com/shivamjaiswal64/) <br> <img src="https://github.com/shivamjaiswal64.png" width="20" height="20"> | India |
 
