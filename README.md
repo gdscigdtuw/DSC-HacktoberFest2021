@@ -24,4 +24,5 @@ This repository is mainly open to those who are looking to make some PR for the 
 | [Sky0023](https://github.com/Sky0023/) <br> <img src="https://github.com/Sky0023.png" width="20" height="20">   | India      |
 | [nehasangeetajha](https://github.com/nehasangeetajha/) <br> <img src="https://github.com/nehasangeetajha.png" width="20" height="20">   | India      |
 | [Shivam Jaiswal](https://github.com/shivamjaiswal64/) <br> <img src="https://github.com/shivamjaiswal64.png" width="20" height="20"> | India |
+| [Nandini Saini](https://github.com/nandini-412/) <br> <img src="https://avatars3.githubusercontent.com/u/71938658?s=400&u=8326c09da59990f1c4e36c66d6f9d4ec83cb9e48&v=4" width="20" height="20"> | India |
 
