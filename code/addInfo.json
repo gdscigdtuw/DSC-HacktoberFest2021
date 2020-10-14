@@ -10,9 +10,22 @@
            "place":"Ghaziabad"
         },
         {
+
            "name":"Sneha Aggarwal",
            "age": 20,
            "place":"Delhi"
         }
+
+           "name":"",
+           "age": ,
+           "place":""
+        },
+        {
+         "name":"Nandini",
+         "age": 19,
+         "place": "Delhi"
+      }
+
+
 ]
 
