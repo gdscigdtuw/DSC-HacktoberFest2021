@@ -15,6 +15,11 @@
            "place":""
         },
         {
+           "name":"Muskaan Verma",
+           "age": 19 ,
+           "place":"Delhi"
+        },
+        {
          "name":"Nandini",
          "age": 19,
          "place": "Delhi"
