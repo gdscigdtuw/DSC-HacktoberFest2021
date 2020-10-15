@@ -23,7 +23,11 @@
          "name":"Nandini",
          "age": 19,
          "place": "Delhi"
-      }
-
+      },
+        {
+           "name": "Shruthi Rao",
+           "age": 19 ,
+           "place": "Delhi"
+		}
 ]
 
