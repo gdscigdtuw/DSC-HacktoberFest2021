@@ -32,3 +32,4 @@ This repository is mainly open to those who are looking to make some PR for the 
 | [Madhu Patel ](https://github.com/madhup01) <br> <img src="https://github.com/madhup01.png" width="20" height="20">   | India      |
 | [Faizan Haider](https://github.com/Haid-Faiz/) <br> <img src="https://github.com/Haid-Faiz.png" width="20" height="20">   | India      |
 | [yash baroda](https://github.com/yash-baroda/) <br> <img src="https://github.com/yash-baroda.png" width="20" height="20">   | India      |
+| [shiva dubal](https://github.com/shivadubal26/) <br> <img src="https://github.com/shivadubal26.png" width="20" height="20">   | India      |
