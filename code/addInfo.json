@@ -25,6 +25,11 @@
          "place": "Delhi"
       },
        {
+         "name": "Madhu Patel",
+         "age": 20 ,
+         "place": "Delhi"
+       },
+       {
            "name": "Shruthi Rao",
            "age": 19 ,
            "place": "Delhi"
