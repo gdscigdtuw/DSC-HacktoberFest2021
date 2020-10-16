@@ -10,30 +10,25 @@
            "place":"Ghaziabad"
         },
         {
-           "name":"",
-           "age": ,
-           "place":""
-        },
-        {
            "name":"Muskaan Verma",
            "age": 19 ,
            "place":"Delhi"
         },
         {
-         "name":"Nandini",
-         "age": 19,
-         "place": "Delhi"
-      },
-       {
+           "name":"Nandini",
+           "age": 19,
+           "place": "Delhi"
+        },
+        {
            "name": "Shruthi Rao",
            "age": 19 ,
            "place": "Delhi"
 	},
-	 {
+	{
            "name":"Faizan Haider",
            "age": 19 ,
            "place":"Rajasthan"
-        }
+        },
 	{
            "name":"yash baroda",
            "age": 22 ,
