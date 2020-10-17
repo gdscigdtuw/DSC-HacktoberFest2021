@@ -39,16 +39,16 @@
            "age": 22 ,
            "place":"up"
         },
-  {
+        {
           "name":"shiva dubal",
            "age": 22 ,
            "place":"mp"
         },
-  {
+        {
 		"name": "Divanshi",
 		"age": 19,
 		"place": "Delhi"
-	}
+	},
 	{
 		"name": "Shant",
 		"age": 23,
