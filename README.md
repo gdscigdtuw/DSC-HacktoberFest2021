@@ -34,4 +34,5 @@ This repository is mainly open to those who are looking to make some PR for the 
 | [yash baroda](https://github.com/yash-baroda/) <br> <img src="https://github.com/yash-baroda.png" width="20" height="20">   | India      |
 | [shiva dubal](https://github.com/shivadubal26/) <br> <img src="https://github.com/shivadubal26.png" width="20" height="20">   | India      |
 | [Divanshi](https://github.com/divanshi0304/) <br> <img src="https://github.com/divanshi0304.png" width="20" height="20">   | India      |
+| [shant singh](https://github.com/shant-singh/) <br> <img src="https://github.com/shant-singh.png" width="20" height="20">   | India      |
 | [Ananya Pathak](https://github.com/ana-pat/) <br> <img src="https://github.com/ana-pat.png" width="20" height="20">    | India    |
