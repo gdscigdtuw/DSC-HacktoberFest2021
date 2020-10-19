@@ -53,6 +53,12 @@
 		"name": "Shant",
 		"age": 23,
 		"place": "noida"
+	},
+	{
+		"name": "Yukta Misra",
+		"age": 19,
+		"place": "Delhi"
 	}
+	
 ]
 
