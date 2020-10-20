@@ -58,7 +58,12 @@
 		"name": "Yukta Misra",
 		"age": 19,
 		"place": "Delhi"
-	}
+   },
+   {
+      "name":"Sonali",
+      "age":20,
+      "place":"Delhi"
+   }
 	
 ]
 
