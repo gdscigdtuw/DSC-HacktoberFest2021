@@ -1,4 +1,4 @@
-[
+ [
         {
            "name":"Shivani",
            "age": 20,
@@ -58,7 +58,12 @@
 		"name": "Yukta Misra",
 		"age": 19,
 		"place": "Delhi"
-	}
+	},
+    {
+        "name": "Rajat",
+        "age": 18,
+        "place": "Delhi"
+    }
 	
 ]
 
