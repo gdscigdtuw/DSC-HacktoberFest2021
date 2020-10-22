@@ -27,7 +27,7 @@
 	{
 	   "name": "Madhu Patel",
            "age": 20 ,
-           "place": "Delhi"	
+           "place": "Delhi"
 	},
 	{
            "name":"Faizan Haider",
@@ -58,7 +58,11 @@
 		"name": "Yukta Misra",
 		"age": 19,
 		"place": "Delhi"
+	},
+	{
+		"name": "Aishwarya Suresh",
+		"age": 19,
+		"place": "Ghaziabad"
 	}
-	
-]
 
+]
