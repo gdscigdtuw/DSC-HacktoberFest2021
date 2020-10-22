@@ -68,6 +68,12 @@
 		"name": "Sonali",
 		"age": 20,
 		"place": "Delhi"
-	}
+	},
+  {
+      "name": "Yachika",
+      "age": 20,
+      "place":"Delhi"
+  }
+   
 
 ]
