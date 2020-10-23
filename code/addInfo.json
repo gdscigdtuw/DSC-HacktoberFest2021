@@ -68,6 +68,11 @@
 		"name": "Sonali",
 		"age": 20,
 		"place": "Delhi"
+	},
+	{
+		"name": "Manasi",
+		"age": 20,
+		"place": "Mumbai"
 	}
 
 ]
