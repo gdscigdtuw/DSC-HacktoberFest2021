@@ -72,8 +72,13 @@
   {
       "name": "Yachika",
       "age": 20,
-      "place":"Delhi"
-  }
-   
+      "place": "Delhi"
+  },
+	{
+		"name": "Manasi",
+		"age": 20,
+		"place": "Mumbai"
+	}
+
 
 ]
