@@ -1,9 +1,4 @@
-[       {
-           "name":"Aditi",
-           "age": 18,
-           "place": "Delhi"
-        },
-
+[     
         {
            "name":"Shivani",
            "age": 20,
@@ -45,45 +40,49 @@
            "place":"up"
         },
         {
-          "name":"shiva dubal",
+           "name":"shiva dubal",
            "age": 22 ,
            "place":"mp"
         },
         {
-		"name": "Divanshi",
-		"age": 19,
-		"place": "Delhi"
+	   "name": "Divanshi",
+	   "age": 19,
+	   "place": "Delhi"
 	},
 	{
-		"name": "Shant",
-		"age": 23,
-		"place": "noida"
+	   "name": "Shant",
+	   "age": 23,
+	   "place": "noida"
 	},
 	{
-		"name": "Yukta Misra",
-		"age": 19,
-		"place": "Delhi"
+	   "name": "Yukta Misra",
+	   "age": 19,
+	   "place": "Delhi"
 	},
 	{
-		"name": "Aishwarya Suresh",
-		"age": 19,
-		"place": "Ghaziabad"
+	   "name": "Aishwarya Suresh",
+	   "age": 19,
+	   "place": "Ghaziabad"
 	},
 	{
-		"name": "Sonali",
-		"age": 20,
-		"place": "Delhi"
+	   "name": "Sonali",
+	   "age": 20,
+	   "place": "Delhi"
 	},
-  {
-      "name": "Yachika",
-      "age": 20,
-      "place": "Delhi"
-  },
+  	{
+      	   "name": "Yachika",
+      	   "age": 20,
+      	   "place": "Delhi"
+  	},
 	{
-		"name": "Manasi",
-		"age": 20,
-		"place": "Mumbai"
-	}
-
+	   "name": "Manasi",
+	   "age": 20,
+	   "place": "Mumbai"
+	},
+	{
+           "name":"Aditi",
+           "age": 18,
+           "place": "Delhi"
+        }
 
 ]
