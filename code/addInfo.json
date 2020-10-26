@@ -93,5 +93,10 @@
       	   "name": "Yuval",
       	   "age": 38,
        	   "place": "TLV"
-    	}
+    	},
+	{
+	   "name": "Garima",
+      	   "age": 18,
+       	   "place": "Delhi"
+	}
 ]
