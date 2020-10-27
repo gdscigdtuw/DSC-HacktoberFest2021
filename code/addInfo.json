@@ -1,5 +1,12 @@
-[     
+
+[       
+	{
+           "name":"Aditi",
+           "age": 18,
+           "place": "Delhi"
+        }, 
         {
+
            "name":"Shivani",
            "age": 20,
            "place": "Delhi"
