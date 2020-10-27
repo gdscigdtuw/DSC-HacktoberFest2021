@@ -1,5 +1,12 @@
-[     
+
+[       
+	{
+           "name":"Aditi",
+           "age": 18,
+           "place": "Delhi"
+        }, 
         {
+
            "name":"Shivani",
            "age": 20,
            "place": "Delhi"
@@ -93,5 +100,10 @@
       	   "name": "Yuval",
       	   "age": 38,
        	   "place": "TLV"
-    	}
+    	},
+	{
+	   "name": "Garima",
+      	   "age": 18,
+       	   "place": "Delhi"
+	}
 ]
