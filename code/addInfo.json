@@ -1,10 +1,10 @@
 
-[       
+[
 	{
            "name":"Aditi",
            "age": 18,
            "place": "Delhi"
-        }, 
+        },
         {
 
            "name":"Shivani",
@@ -105,5 +105,10 @@
 	   "name": "Garima",
       	   "age": 18,
        	   "place": "Delhi"
+	},
+	{
+		"name": "Balpreet",
+		"age":19,
+		"place": "Delhi"
 	}
 ]
