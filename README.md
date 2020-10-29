@@ -42,3 +42,4 @@ This repository is mainly open to those who are looking to make some PR for the 
 | [Yuval](https://github.com/yuvala-dev/) <br> <img src="https://github.com/yuvala-dev.png" width="20" height="20">    | IL|
 | [Garima](https://github.com/Garimakanwaria) <br> <img src="https://github.com/Garimakanwaria.png" width="20" height="20">    | India    |
 | [Balpreet Kaur](https://github.com/Balpreetkaur291) <br> <img src="https://github.com/Balpreetkaur291.png" width="20" height="20">    | India    | 
+| [Aastha Bansal](https://github.com/aastha271100) <br> <img src="https://github.com/aastha271100.png" width="20" height="20">    | India    | 
