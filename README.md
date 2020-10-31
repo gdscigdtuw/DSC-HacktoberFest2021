@@ -13,9 +13,9 @@ This repository is mainly open to those who are looking to make some PR for the 
 
 ### Learning Resources
 
-[Creating a pull request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
+- [Creating a pull request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
 
-[Learn the Git basics](https://try.github.io)
+- [Learn the Git basics](https://try.github.io)
 
 ## Contributors
 
