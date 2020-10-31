@@ -1,3 +1,0 @@
-dollars = float(input("Please enter dollars:"))
-rupees = dollars * 74.55
-print(rupees, " Rupees")
